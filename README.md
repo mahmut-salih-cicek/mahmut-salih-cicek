@@ -35,7 +35,7 @@
 
 
 
-<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Apple Watch Cryptocurrency Tracker Widget </h2>
+<h3 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Apple Watch Cryptocurrency Tracker Widget </h2>
 
 <h2 align = "left"> Features: </h2>
 <h3 align = "left"> -> Realtime Update</h2>
@@ -78,7 +78,7 @@
 <br>
 </br>
 
-<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Url Transfer & Link Manager : Open Links On Pc </h2>
+<h3 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Url Transfer & Link Manager : Open Links On Pc </h2>
 
 <h2 align = "left"> Features: </h2>
 <h3 align = "left"> -> Open links on any Desktop / Laptop - Windows, Mac, Linux, etc.</h2>
@@ -126,7 +126,7 @@
 <br>
 </br>
 
-<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Custom Face Widget </h2>
+<h3 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Custom Face Widget </h2>
 
 <h2 align = "left"> Features: </h2>
 <h3 align = "left"> -> Current Weather</h2>
@@ -167,7 +167,7 @@
 <br>
 </br>
 
-<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> YouTube Downloader </h2>
+<h3 align = "center" style="color:pink;font-size:190%; font-family:courier; "> YouTube Downloader </h2>
 
 <h2 align = "left"> Features: </h2>
 <h3 align = "left"> -> YouTube Interface</h2>
@@ -205,7 +205,7 @@
 <br>
 </br>
 
-<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Custom Launcher (My Style) </h2>
+<h3 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Custom Launcher (My Style) </h2>
 
 <h2 align = "left"> Features: </h2>
 <h3 align = "left"> -> lightweight interface </h2>
@@ -242,7 +242,7 @@
 <br>
 </br>
 
-<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Puffy Web Browser </h2>
+<h3 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Puffy Web Browser </h2>
 
 <h2 align = "left"> Features: </h2>
 <h3 align = "left"> -> lightweight interface </h2>
@@ -279,7 +279,7 @@
 <br>
 </br>
 
-<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Google Custom Search App </h2>
+<h3 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Google Custom Search App </h2>
 
 <h2 align = "left"> Features: </h2>
 <h3 align = "left"> -> Search containing all of the following words.</h2>
