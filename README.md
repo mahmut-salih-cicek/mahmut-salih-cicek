@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="250px" width="150px src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/myimg.jpg?raw=true" width="150px"/></a>
+<a href="#"><img width="100%" height="250px" src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/myimg.jpg?raw=true" width="150px"/></a>
 
 
 
