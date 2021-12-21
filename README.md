@@ -245,8 +245,8 @@
 <p align="center">
 <a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184655.png?raw=true" width="300px"></a>
 <a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184727.png?raw=true" width="300px"></a>
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184702.png?raw=true" width="300px"></a>
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184702.png?raw=true width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184714.png?raw=true" width="300px"></a>
+
 </p>
 
 
@@ -259,6 +259,42 @@
 
 
 
+
+
+
+
+
+<p></p>
+<hr>
+<br>
+</br>
+
+<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Google Custom Search App </h2>
+
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> -> Search containing all of the following words.</h2>
+<h3 align = "left"> -> Search that does not contain any of the following words.</h2>
+<h3 align = "left"> -> -Custom Language search.</h2>
+<h3 align = "left"> -> -Search by date of last update.</h2>
+<h3 align = "left"> -> -Search by file type.</h2>
+
+
+
+<p align="center">
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-10.webp" width="300px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-11.webp" width="300px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-12.webp" width="300px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-13.webp" width="300px"></a>
+
+</p>
+
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
+
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
+
+</p>
 
 
 
