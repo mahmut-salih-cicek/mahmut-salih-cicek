@@ -79,10 +79,10 @@
 
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/PicsArt_03-03-04.03.44.jpg?raw=true" width="350px"></a>
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/PicsArt_03-03-03.55.00.jpg?raw=true" width="350px"></a>
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/PicsArt_03-03-03.17.40.jpg?raw=true" width="350px"></a>
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/PicsArt_03-03-04.31.22.jpg?raw=true" width="350px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/PicsArt_03-03-04.03.44.jpg?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/PicsArt_03-03-03.55.00.jpg?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/PicsArt_03-03-03.17.40.jpg?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/PicsArt_03-03-04.31.22.jpg?raw=true" width="300px"></a>
 </p>
 
 
@@ -206,8 +206,8 @@
 
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/xmod_home_app/blob/master/Application%20Screen%20Shot/Screenshot_20200913-185751.png?raw=true" width="300px"></a>
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/xmod_home_app/blob/master/Application%20Screen%20Shot/Screenshot_20200913-185817.png?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/xmod_home_app/blob/master/Application%20Screen%20Shot/Screenshot_20200913-185751.png?raw=true" width="200px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/xmod_home_app/blob/master/Application%20Screen%20Shot/Screenshot_20200913-185817.png?raw=true" width="200px"></a>
 </p>
 
 
@@ -243,9 +243,9 @@
 
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184655.png?raw=true" width="300px"></a>
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184727.png?raw=true" width="300px"></a>
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184714.png?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184655.png?raw=true" width="200px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184727.png?raw=true" width="200px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184714.png?raw=true" width="200px"></a>
 
 </p>
 
@@ -281,10 +281,10 @@
 
 
 <p align="center">
-<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-10.webp" width="300px"></a>
-<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-11.webp" width="300px"></a>
-<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-12.webp" width="300px"></a>
-<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-13.webp" width="300px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-10.webp" width="200px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-11.webp" width="200px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-12.webp" width="200px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/mahmut-salih-cicek/main/app_img/unnamed-13.webp" width="200px"></a>
 
 </p>
 
