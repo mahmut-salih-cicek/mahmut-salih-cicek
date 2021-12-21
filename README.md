@@ -227,6 +227,44 @@
 
 
 
+<p></p>
+<hr>
+<br>
+</br>
+
+<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Puffy Web Browser </h2>
+
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> -> lightweight interface </h2>
+<h3 align = "left"> -> fast launch </h2>
+<h3 align = "left"> -> bottom sheet menu</h2>
+<h3 align = "left"> -> quick memo</h2>
+
+
+
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184655.png?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184727.png?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184702.png?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Application%20Screen%20Shoot/Screenshot_20200913-184702.png?raw=true width="300px"></a>
+</p>
+
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
+
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
+
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
