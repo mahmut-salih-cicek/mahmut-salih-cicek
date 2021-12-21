@@ -152,6 +152,81 @@
 
 
 
+<p></p>
+<hr>
+<br>
+</br>
+
+<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> YouTube Downloader </h2>
+
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> -> YouTube Interface</h2>
+<h3 align = "left"> -> Fast Media Downloand </h2>
+<h3 align = "left"> -> Mp3-MP4 Format</h2>
+<h3 align = "left"> -> Easy Ux</h2>
+
+
+
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/YouTube_Storage/blob/master/Application%20Screen%20Shot/PicsArt_08-09-04.38.41.jpg?raw=truehttps://github.com/mahmut-salih-cicek/YouTube_Storage/blob/master/Application%20Screen%20Shot/PicsArt_08-09-04.38.41.jpg?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/YouTube_Storage/blob/master/Application%20Screen%20Shot/PicsArt_08-09-04.47.12.jpg?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/YouTube_Storage/blob/master/Application%20Screen%20Shot/PicsArt_08-09-04.51.47.jpg?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/YouTube_Storage/blob/master/Application%20Screen%20Shot/PicsArt_08-09-04.59.13.jpg?raw=true" width="300px"></a>
+</p>
+
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
+
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
+
+</p>
+
+
+</h1>
+
+
+
+
+
+
+<p></p>
+<hr>
+<br>
+</br>
+
+<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Custom Launcher (My Style) </h2>
+
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> -> lightweight interface </h2>
+<h3 align = "left"> -> fast launch </h2>
+<h3 align = "left"> -> bottom sheet menu</h2>
+<h3 align = "left"> -> quick memo</h2>
+
+
+
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/xmod_home_app/blob/master/Application%20Screen%20Shot/Screenshot_20200913-185751.png?raw=true" width="300px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/xmod_home_app/blob/master/Application%20Screen%20Shot/Screenshot_20200913-185817.png?raw=true" width="300px"></a>
+</p>
+
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
+
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
+
+</p>
+
+
+</h1>
+
+
+
+
+
+
+
 
 
 
