@@ -10,7 +10,7 @@
 
 <h3 align="center">I'm a passionate Mobil App Developer from Turkey.</h3>
 
-.
+
 
 
 
@@ -18,10 +18,6 @@
 
 <hr> 
 <hr>
-
-<br>
-</br>
-
 
 
 
