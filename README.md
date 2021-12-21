@@ -50,24 +50,49 @@
 
 </p>
 
-
-
-
-
 <hr>
+
+
 <p></p>
 <hr>
-
-
-<br>
-</br>
 <br>
 </br>
 
+<h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Custom Face Widget </h2>
+
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> -> Current Weather</h2>
+<h3 align = "left"> -> Current Battery Temp. </h2>
+<h3 align = "left"> -> Current Battery Level</h2>
+<h3 align = "left"> -> Changeable Face</h2>
+<h3 align = "left"> -> Changeable background, text color</h2>
 
 
 
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/Screenshot_20211222-012434.png?raw=true" width="200px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/Screenshot_20211222-012451.png?raw=true" width="200px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/Screenshot_20211222-012456.png?raw=true" width="200px"></a>
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/Screenshot_20211222-012511.png?raw=true" width="200px"></a>
+</p>
 
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
+
+<p align="center">
+<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
+
+</p>
+
+
+</h1>
+
+
+
+<p></p>
+<hr>
+<br>
+</br>
 
 <h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Url Transfer & Link Manager : Open Links On Pc </h2>
 
