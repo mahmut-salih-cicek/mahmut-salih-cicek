@@ -24,7 +24,7 @@
 </br>
 
 
-<h2 align = "center" style="color:powderblue; font-size:300%; font-family:Arial Black;" > My Favorite Project </h2>
+<h2 align = "center" style="color:powderblue; font-size:400%; font-family:Arial Black;" > My Favorite Projects </h2>
 
 <hr> 
 <hr>
