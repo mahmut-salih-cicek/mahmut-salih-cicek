@@ -3,7 +3,7 @@
 
 <h3 align="center">
 
-<img width="auto" height="400" src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/myimg.jpg?raw=true"/></a>
+<img width="auto" height="300" src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/myimg.jpg?raw=true"/></a>
 
 </h3>
 
@@ -19,8 +19,9 @@
 
 <h3 align="center">I'm a passionate Mobil App Developer from Turkey.</h3>
 
-.
 
+<br>
+</br>
 
 
 <h2 align = "center" style="color:powderblue; font-size:300%; font-family:Arial Black;" > My Favorite Project </h2>
