@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/myimg.jpg?raw=true" width="auto"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/myimg.jpg?raw=true" width="150px"/></a>
 
 
 
@@ -10,13 +10,18 @@
 
 <h3 align="center">I'm a passionate Mobil App Developer from Turkey.</h3>
 
-
+.
 
 
 
 <h2 align = "center" style="color:powderblue; font-size:300%; font-family:Arial Black;" > My Favorite Project </h2>
 
 <hr> 
+<hr>
+
+<br>
+</br>
+
 
 
 
@@ -67,10 +72,10 @@
 <h2 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Url Transfer & Link Manager : Open Links On Pc </h2>
 
 <h2 align = "left"> Features: </h2>
-<h3 align = "left"> -> Realtime Update</h2>
-<h3 align = "left"> -> Crypto Currency Graph </h2>
-<h3 align = "left"> -> 150+ Crypto Currency Coins</h2>
-<h3 align = "left"> -> Binance Exchange</h2>
+<h3 align = "left"> -> Open links on any Desktop / Laptop - Windows, Mac, Linux, etc.</h2>
+<h3 align = "left"> -> Simple user interface for across platforms. </h2>
+<h3 align = "left"> -> Transfer without delay Url & Link.</h2>
+<h3 align = "left"> -> See Own Links https://link-from.web.app/</h2>
 
 
 
