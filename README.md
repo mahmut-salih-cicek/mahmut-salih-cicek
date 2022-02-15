@@ -53,10 +53,10 @@
 </p>
 
 
-<p align = "center" src="https://play.google.com/store/apps/details?id=com.blockchain.widget.sout&gl=TR" style="font-family:courier; font-size:200%; ">Download APK</p>
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
+<a href = "https://play.google.com/store/apps/details?id=com.blockchain.widget.sout&gl=TR"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
 
 </p>
 
