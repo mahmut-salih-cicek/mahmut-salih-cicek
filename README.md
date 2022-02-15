@@ -148,7 +148,7 @@
 <p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
+<a href = "https://play.google.com/store/apps/details?id=com.sout.custom_apple_watch&gl=TR"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
 
 </p>
 
@@ -188,7 +188,7 @@
 <p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
+<a href = "https://github.com/mahmut-salih-cicek/YouTube_Storage/blob/master/Releases%20Apk/YouTube%20Storage.apk"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
 
 </p>
 
@@ -224,7 +224,7 @@
 <p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
+<a href = "https://github.com/mahmut-salih-cicek/xmod_home_app/blob/master/Releases%20Apk/xmod_home_app.apk"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
 
 </p>
 
@@ -263,7 +263,7 @@
 <p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
+<a href = "https://github.com/mahmut-salih-cicek/Puffy_web/blob/master/Releases%20Apk/Puffy_web.apk"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
 
 </p>
 
@@ -302,7 +302,7 @@
 <p align = "center"  style="font-family:courier; font-size:200%; ">Download APK</p>
 
 <p align="center">
-<a href = ""><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
+<a href = "https://github.com/mahmut-salih-cicek/Custom_Search_App/blob/main/Releases%20Apk/Custom%20Search.apk"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="100px"></a>
 
 </p>
 
