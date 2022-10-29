@@ -53,9 +53,9 @@
 
 <p align="center">
 <a href = ""><img src="https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/lock_screen_ss/ss1.png?raw=true" width="200px"></a>
-<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/ss5.png" width="200px"></a>
 <a href = ""><img src="https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/lock_screen_ss/ss3.png?raw=true" width="200px"></a>
 <a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/ss4.png" width="200px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/ss5.png" width="200px"></a>
 </p>
 
 
