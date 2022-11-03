@@ -62,9 +62,10 @@
 <p align = "center"  style="font-family:courier; font-size:200%; ">Download Now</p>
 
 <p align="center">
-<a href = "https://play.google.com/store/apps/details?id=com.developer.soutos16lockscreen" width="150px"></a>
+<a href = "https://play.google.com/store/apps/details?id=com.developer.soutos16lockscreen"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
 
 </p>
+
 
 <hr>
 
