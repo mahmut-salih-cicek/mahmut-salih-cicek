@@ -40,10 +40,10 @@
 
 
 
-<h3 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Lock Screen Ios 16 For Android </h2>
+<h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Lock Screen Ios 16 For Android </h1>
 
 <h2 align = "left"> Features: </h2>
-<h3 align = "left"> -> Ios 16 Lock Screen Theme</h2>
+<h3 align = "left"> -> Ios 16 Lock Screen Theme</h3>
 <h3 align = "left"> -> Ios 16 Toolkit </h2>
 <h3 align = "left"> -> Change Your Android Lock Screen</h2>
 
