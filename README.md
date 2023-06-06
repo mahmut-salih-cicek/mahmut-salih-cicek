@@ -39,7 +39,7 @@
 
 
 
-<h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Own Ai Avatar Maker </h1>
+<h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Create Your Own Ai Avatar </h1>
 
 <h2 align = "left"> Features: </h2>
 <h3 align = "left"> </h3>
