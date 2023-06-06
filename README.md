@@ -39,6 +39,42 @@
 
 
 
+<h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Own Ai Avatar Maker </h1>
+
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> </h3>
+<h3 align = "left">  </h2>
+<h3 align = "left"> </h2>
+
+
+
+
+<p align="center">
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss-3/unnamed.jpg" width="200px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss-3/unnamed-2.jpg" width="200px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss-3/unnamed-3.jpg" width="200px"></a>
+<a href = ""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss-3/unnamed-4.jpg" width="200px"></a>
+</p>
+
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download Now</p>
+
+<p align="center">
+<a href = "https://play.google.com/store/apps/details?id=com.developer.soutos16lockscreen"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
+
+</p>
+
+<hr>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,7 +104,6 @@
 <a href = "https://play.google.com/store/apps/details?id=com.developer.soutos16lockscreen"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
 
 </p>
-
 
 <hr>
 
