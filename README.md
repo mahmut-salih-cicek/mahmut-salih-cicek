@@ -33,7 +33,30 @@
 
 
 
+<h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> MyCar - Dashboard Widget </h1>
 
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> </h3>
+<h3 align = "left">  </h2>
+<h3 align = "left"> </h2>
+
+
+
+<p align="center">
+<a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/6a/38/296a3877-821c-ea7a-ba8e-853b61f236aa/ALL_YOUR_SUBSCRIPTIONS_IN_ONE_PLACE.png/460x996bb.webp" width="200px"></a>
+<a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/5b/be/2c5bbec7-9c72-9e97-ac7d-92665a1869d7/16.png/460x996bb.webp" width="200px"></a>
+    <a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/88/50/eb885074-8dcf-e07f-ee8c-ffe9f2cd72ff/19.png/460x996bb.webp" width="200px"></a>
+</p>
+
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download Now</p>
+
+<p align="center">
+<a href = "https://apps.apple.com/us/app/mycar-dashboard-widget/id6753684289"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
+
+</p>
+
+<hr>
 
 
 
