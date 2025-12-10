@@ -26,6 +26,32 @@
 </br>
 
 
+<h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Humanize Ai - Paraphrase Tool </h1>
+
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> </h3>
+<h3 align = "left">  </h2>
+<h3 align = "left"> </h2>
+
+
+<p align="center">
+<a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/85/0b/a3850bd6-dbb8-f2b3-226d-fbee735b43c5/9.png/230x498bb.webp" width="200px"></a>
+        <a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/9b/90/479b900b-32ae-69fb-7e60-e930a8a5909a/10.png/230x498bb.webp" width="200px"></a>
+    <a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/04/4a/84044a95-0990-1ba5-4a26-4f7479f707b8/11.png/230x498bb.webp" width="200px"></a>
+        <a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/86/df/fa86df1e-982b-93d2-e1f2-5ea88c0fab3a/13.png/230x498bb.webp" width="200px"></a>
+</p>
+
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download Now</p>
+
+<p align="center">
+<a href = "https://apps.apple.com/us/app/humanize-ai-paraphrase-tool/id6752674813"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
+
+</p>
+
+<hr>
+
+
 <h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Cleanify - One Tap Cleanup </h1>
 
 <h2 align = "left"> Features: </h2>
