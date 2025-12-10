@@ -26,6 +26,32 @@
 </br>
 
 
+<h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> Cleanify - One Tap Cleanup </h1>
+
+<h2 align = "left"> Features: </h2>
+<h3 align = "left"> </h3>
+<h3 align = "left">  </h2>
+<h3 align = "left"> </h2>
+
+
+<p align="center">
+<a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/c3/84/10c3842a-389a-ec25-7617-c422145c74cd/1.png/230x499bb.webp" width="200px"></a>
+        <a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/62/cf/f362cf2e-728b-ad29-7f77-d388c07ef91b/5.png/230x499bb.webp" width="200px"></a>
+    <a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/ad/1b/58ad1baf-abb3-c0e1-9945-a6f84c0cd315/2.png/230x499bb.webp" width="200px"></a>
+        <a href = ""><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/6c/3c/7c6c3c56-26bb-e8dd-12da-5b7dd2124e20/3.png/230x499bb.webp”" width="200px"></a>
+</p>
+
+
+<p align = "center"  style="font-family:courier; font-size:200%; ">Download Now</p>
+
+<p align="center">
+<a href = "https://apps.apple.com/us/app/cleanify-one-tap-cleanup/id6748836024"><img src="https://github.com/mahmut-salih-cicek/mahmut-salih-cicek/blob/main/app_img/download-2-xxl.png?raw=true" width="150px"></a>
+
+</p>
+
+<hr>
+
+
 
 
 <h1 align = "center" style="color:pink;font-size:190%; font-family:courier; "> SpamHunter - Stop Scam </h1>
